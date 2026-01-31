@@ -1,0 +1,44 @@
+[
+  {
+    "slot": 0,
+    "time_sec": 0.0,
+    "link_1_gbps": 14.5027,
+    "link_2_gbps": 3.451,
+    "link_3_gbps": 3.8899
+  },
+  {
+    "slot": 2000,
+    "time_sec": 1.0,
+    "link_1_gbps": 13.2232,
+    "link_2_gbps": 3.0251,
+    "link_3_gbps": 3.793
+  },
+  {
+    "slot": 4000,
+    "time_sec": 2.0,
+    "link_1_gbps": 16.2035,
+    "link_2_gbps": 3.7241,
+    "link_3_gbps": 4.2671
+  },
+  {
+    "slot": 6000,
+    "time_sec": 3.0,
+    "link_1_gbps": 13.5706,
+    "link_2_gbps": 3.1871,
+    "link_3_gbps": 3.8272
+  },
+  {
+    "slot": 8000,
+    "time_sec": 4.0,
+    "link_1_gbps": 14.0384,
+    "link_2_gbps": 3.2447,
+    "link_3_gbps": 3.9842
+  },
+  {
+    "slot": 10000,
+    "time_sec": 5.0,
+    "link_1_gbps": 15.9116,
+    "link_2_gbps": 3.6741,
+    "link_3_gbps": 4.4091
+  }
+]

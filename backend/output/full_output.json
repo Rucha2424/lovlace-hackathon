@@ -1,0 +1,506 @@
+{
+  "topology": {
+    "nodes": [
+      {
+        "id": "DU",
+        "type": "du",
+        "label": "DU"
+      },
+      {
+        "id": "Link_1",
+        "type": "link",
+        "label": "Link 1"
+      },
+      {
+        "id": "RU_1",
+        "type": "ru",
+        "label": "RU 1"
+      },
+      {
+        "id": "Cell_0",
+        "type": "cell",
+        "label": "Cell 0"
+      },
+      {
+        "id": "Cell_2",
+        "type": "cell",
+        "label": "Cell 2"
+      },
+      {
+        "id": "Cell_4",
+        "type": "cell",
+        "label": "Cell 4"
+      },
+      {
+        "id": "Cell_6",
+        "type": "cell",
+        "label": "Cell 6"
+      },
+      {
+        "id": "Cell_7",
+        "type": "cell",
+        "label": "Cell 7"
+      },
+      {
+        "id": "Cell_8",
+        "type": "cell",
+        "label": "Cell 8"
+      },
+      {
+        "id": "Cell_9",
+        "type": "cell",
+        "label": "Cell 9"
+      },
+      {
+        "id": "Cell_10",
+        "type": "cell",
+        "label": "Cell 10"
+      },
+      {
+        "id": "Cell_12",
+        "type": "cell",
+        "label": "Cell 12"
+      },
+      {
+        "id": "Cell_13",
+        "type": "cell",
+        "label": "Cell 13"
+      },
+      {
+        "id": "Cell_14",
+        "type": "cell",
+        "label": "Cell 14"
+      },
+      {
+        "id": "Cell_15",
+        "type": "cell",
+        "label": "Cell 15"
+      },
+      {
+        "id": "Cell_17",
+        "type": "cell",
+        "label": "Cell 17"
+      },
+      {
+        "id": "Cell_19",
+        "type": "cell",
+        "label": "Cell 19"
+      },
+      {
+        "id": "Cell_20",
+        "type": "cell",
+        "label": "Cell 20"
+      },
+      {
+        "id": "Cell_22",
+        "type": "cell",
+        "label": "Cell 22"
+      },
+      {
+        "id": "Link_2",
+        "type": "link",
+        "label": "Link 2"
+      },
+      {
+        "id": "RU_2",
+        "type": "ru",
+        "label": "RU 2"
+      },
+      {
+        "id": "Cell_1",
+        "type": "cell",
+        "label": "Cell 1"
+      },
+      {
+        "id": "Cell_3",
+        "type": "cell",
+        "label": "Cell 3"
+      },
+      {
+        "id": "Cell_18",
+        "type": "cell",
+        "label": "Cell 18"
+      },
+      {
+        "id": "Cell_23",
+        "type": "cell",
+        "label": "Cell 23"
+      },
+      {
+        "id": "Link_3",
+        "type": "link",
+        "label": "Link 3"
+      },
+      {
+        "id": "RU_3",
+        "type": "ru",
+        "label": "RU 3"
+      },
+      {
+        "id": "Cell_5",
+        "type": "cell",
+        "label": "Cell 5"
+      },
+      {
+        "id": "Cell_11",
+        "type": "cell",
+        "label": "Cell 11"
+      },
+      {
+        "id": "Cell_16",
+        "type": "cell",
+        "label": "Cell 16"
+      },
+      {
+        "id": "Cell_21",
+        "type": "cell",
+        "label": "Cell 21"
+      }
+    ],
+    "edges": [
+      {
+        "source": "DU",
+        "target": "Link_1"
+      },
+      {
+        "source": "Link_1",
+        "target": "RU_1"
+      },
+      {
+        "source": "RU_1",
+        "target": "Cell_0"
+      },
+      {
+        "source": "RU_1",
+        "target": "Cell_2"
+      },
+      {
+        "source": "RU_1",
+        "target": "Cell_4"
+      },
+      {
+        "source": "RU_1",
+        "target": "Cell_6"
+      },
+      {
+        "source": "RU_1",
+        "target": "Cell_7"
+      },
+      {
+        "source": "RU_1",
+        "target": "Cell_8"
+      },
+      {
+        "source": "RU_1",
+        "target": "Cell_9"
+      },
+      {
+        "source": "RU_1",
+        "target": "Cell_10"
+      },
+      {
+        "source": "RU_1",
+        "target": "Cell_12"
+      },
+      {
+        "source": "RU_1",
+        "target": "Cell_13"
+      },
+      {
+        "source": "RU_1",
+        "target": "Cell_14"
+      },
+      {
+        "source": "RU_1",
+        "target": "Cell_15"
+      },
+      {
+        "source": "RU_1",
+        "target": "Cell_17"
+      },
+      {
+        "source": "RU_1",
+        "target": "Cell_19"
+      },
+      {
+        "source": "RU_1",
+        "target": "Cell_20"
+      },
+      {
+        "source": "RU_1",
+        "target": "Cell_22"
+      },
+      {
+        "source": "DU",
+        "target": "Link_2"
+      },
+      {
+        "source": "Link_2",
+        "target": "RU_2"
+      },
+      {
+        "source": "RU_2",
+        "target": "Cell_1"
+      },
+      {
+        "source": "RU_2",
+        "target": "Cell_3"
+      },
+      {
+        "source": "RU_2",
+        "target": "Cell_18"
+      },
+      {
+        "source": "RU_2",
+        "target": "Cell_23"
+      },
+      {
+        "source": "DU",
+        "target": "Link_3"
+      },
+      {
+        "source": "Link_3",
+        "target": "RU_3"
+      },
+      {
+        "source": "RU_3",
+        "target": "Cell_5"
+      },
+      {
+        "source": "RU_3",
+        "target": "Cell_11"
+      },
+      {
+        "source": "RU_3",
+        "target": "Cell_16"
+      },
+      {
+        "source": "RU_3",
+        "target": "Cell_21"
+      }
+    ]
+  },
+  "cell_to_link": {
+    "0": 0,
+    "1": 1,
+    "2": 0,
+    "3": 1,
+    "4": 0,
+    "5": 2,
+    "6": 0,
+    "7": 0,
+    "8": 0,
+    "9": 0,
+    "10": 0,
+    "11": 2,
+    "12": 0,
+    "13": 0,
+    "14": 0,
+    "15": 0,
+    "16": 2,
+    "17": 0,
+    "18": 1,
+    "19": 0,
+    "20": 0,
+    "21": 2,
+    "22": 0,
+    "23": 1
+  },
+  "aggregated_traffic": [
+    {
+      "slot": 0,
+      "time_sec": 0.0,
+      "link_1_gbps": 14.5027,
+      "link_2_gbps": 3.451,
+      "link_3_gbps": 3.8899
+    },
+    {
+      "slot": 2000,
+      "time_sec": 1.0,
+      "link_1_gbps": 13.2232,
+      "link_2_gbps": 3.0251,
+      "link_3_gbps": 3.793
+    },
+    {
+      "slot": 4000,
+      "time_sec": 2.0,
+      "link_1_gbps": 16.2035,
+      "link_2_gbps": 3.7241,
+      "link_3_gbps": 4.2671
+    },
+    {
+      "slot": 6000,
+      "time_sec": 3.0,
+      "link_1_gbps": 13.5706,
+      "link_2_gbps": 3.1871,
+      "link_3_gbps": 3.8272
+    },
+    {
+      "slot": 8000,
+      "time_sec": 4.0,
+      "link_1_gbps": 14.0384,
+      "link_2_gbps": 3.2447,
+      "link_3_gbps": 3.9842
+    },
+    {
+      "slot": 10000,
+      "time_sec": 5.0,
+      "link_1_gbps": 15.9116,
+      "link_2_gbps": 3.6741,
+      "link_3_gbps": 4.4091
+    }
+  ],
+  "congestion": {
+    "0": {
+      "p95_gbps": 0.7145,
+      "mean_gbps": 0.5767,
+      "link_id": 0
+    },
+    "1": {
+      "p95_gbps": 1.1224,
+      "mean_gbps": 0.9844,
+      "link_id": 1
+    },
+    "2": {
+      "p95_gbps": 1.2508,
+      "mean_gbps": 1.1139,
+      "link_id": 0
+    },
+    "3": {
+      "p95_gbps": 0.8127,
+      "mean_gbps": 0.6751,
+      "link_id": 1
+    },
+    "4": {
+      "p95_gbps": 1.0423,
+      "mean_gbps": 0.9021,
+      "link_id": 0
+    },
+    "5": {
+      "p95_gbps": 1.3639,
+      "mean_gbps": 1.2242,
+      "link_id": 2
+    },
+    "6": {
+      "p95_gbps": 0.6852,
+      "mean_gbps": 0.5484,
+      "link_id": 0
+    },
+    "7": {
+      "p95_gbps": 1.0655,
+      "mean_gbps": 0.9268,
+      "link_id": 0
+    },
+    "8": {
+      "p95_gbps": 1.343,
+      "mean_gbps": 1.204,
+      "link_id": 0
+    },
+    "9": {
+      "p95_gbps": 0.7763,
+      "mean_gbps": 0.6372,
+      "link_id": 0
+    },
+    "10": {
+      "p95_gbps": 0.9675,
+      "mean_gbps": 0.83,
+      "link_id": 0
+    },
+    "11": {
+      "p95_gbps": 1.3811,
+      "mean_gbps": 1.2451,
+      "link_id": 2
+    },
+    "12": {
+      "p95_gbps": 0.8216,
+      "mean_gbps": 0.6839,
+      "link_id": 0
+    },
+    "13": {
+      "p95_gbps": 1.0945,
+      "mean_gbps": 0.9572,
+      "link_id": 0
+    },
+    "14": {
+      "p95_gbps": 1.3877,
+      "mean_gbps": 1.2495,
+      "link_id": 0
+    },
+    "15": {
+      "p95_gbps": 0.8148,
+      "mean_gbps": 0.6758,
+      "link_id": 0
+    },
+    "16": {
+      "p95_gbps": 1.0446,
+      "mean_gbps": 0.907,
+      "link_id": 2
+    },
+    "17": {
+      "p95_gbps": 1.3569,
+      "mean_gbps": 1.2192,
+      "link_id": 0
+    },
+    "18": {
+      "p95_gbps": 0.6942,
+      "mean_gbps": 0.5555,
+      "link_id": 1
+    },
+    "19": {
+      "p95_gbps": 1.0542,
+      "mean_gbps": 0.9175,
+      "link_id": 0
+    },
+    "20": {
+      "p95_gbps": 1.4112,
+      "mean_gbps": 1.2722,
+      "link_id": 0
+    },
+    "21": {
+      "p95_gbps": 0.7692,
+      "mean_gbps": 0.6329,
+      "link_id": 2
+    },
+    "22": {
+      "p95_gbps": 1.0878,
+      "mean_gbps": 0.9516,
+      "link_id": 0
+    },
+    "23": {
+      "p95_gbps": 1.2831,
+      "mean_gbps": 1.1459,
+      "link_id": 1
+    }
+  },
+  "link_capacities": {
+    "link_1_gbps": 16.2035,
+    "link_2_gbps": 3.7241,
+    "link_3_gbps": 4.4091
+  },
+  "cell_ids": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23
+  ]
+}

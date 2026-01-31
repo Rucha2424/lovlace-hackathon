@@ -1,0 +1,281 @@
+{
+  "nodes": [
+    {
+      "id": "DU",
+      "type": "du",
+      "label": "DU"
+    },
+    {
+      "id": "Link_1",
+      "type": "link",
+      "label": "Link 1"
+    },
+    {
+      "id": "RU_1",
+      "type": "ru",
+      "label": "RU 1"
+    },
+    {
+      "id": "Cell_0",
+      "type": "cell",
+      "label": "Cell 0"
+    },
+    {
+      "id": "Cell_2",
+      "type": "cell",
+      "label": "Cell 2"
+    },
+    {
+      "id": "Cell_4",
+      "type": "cell",
+      "label": "Cell 4"
+    },
+    {
+      "id": "Cell_6",
+      "type": "cell",
+      "label": "Cell 6"
+    },
+    {
+      "id": "Cell_7",
+      "type": "cell",
+      "label": "Cell 7"
+    },
+    {
+      "id": "Cell_8",
+      "type": "cell",
+      "label": "Cell 8"
+    },
+    {
+      "id": "Cell_9",
+      "type": "cell",
+      "label": "Cell 9"
+    },
+    {
+      "id": "Cell_10",
+      "type": "cell",
+      "label": "Cell 10"
+    },
+    {
+      "id": "Cell_12",
+      "type": "cell",
+      "label": "Cell 12"
+    },
+    {
+      "id": "Cell_13",
+      "type": "cell",
+      "label": "Cell 13"
+    },
+    {
+      "id": "Cell_14",
+      "type": "cell",
+      "label": "Cell 14"
+    },
+    {
+      "id": "Cell_15",
+      "type": "cell",
+      "label": "Cell 15"
+    },
+    {
+      "id": "Cell_17",
+      "type": "cell",
+      "label": "Cell 17"
+    },
+    {
+      "id": "Cell_19",
+      "type": "cell",
+      "label": "Cell 19"
+    },
+    {
+      "id": "Cell_20",
+      "type": "cell",
+      "label": "Cell 20"
+    },
+    {
+      "id": "Cell_22",
+      "type": "cell",
+      "label": "Cell 22"
+    },
+    {
+      "id": "Link_2",
+      "type": "link",
+      "label": "Link 2"
+    },
+    {
+      "id": "RU_2",
+      "type": "ru",
+      "label": "RU 2"
+    },
+    {
+      "id": "Cell_1",
+      "type": "cell",
+      "label": "Cell 1"
+    },
+    {
+      "id": "Cell_3",
+      "type": "cell",
+      "label": "Cell 3"
+    },
+    {
+      "id": "Cell_18",
+      "type": "cell",
+      "label": "Cell 18"
+    },
+    {
+      "id": "Cell_23",
+      "type": "cell",
+      "label": "Cell 23"
+    },
+    {
+      "id": "Link_3",
+      "type": "link",
+      "label": "Link 3"
+    },
+    {
+      "id": "RU_3",
+      "type": "ru",
+      "label": "RU 3"
+    },
+    {
+      "id": "Cell_5",
+      "type": "cell",
+      "label": "Cell 5"
+    },
+    {
+      "id": "Cell_11",
+      "type": "cell",
+      "label": "Cell 11"
+    },
+    {
+      "id": "Cell_16",
+      "type": "cell",
+      "label": "Cell 16"
+    },
+    {
+      "id": "Cell_21",
+      "type": "cell",
+      "label": "Cell 21"
+    }
+  ],
+  "edges": [
+    {
+      "source": "DU",
+      "target": "Link_1"
+    },
+    {
+      "source": "Link_1",
+      "target": "RU_1"
+    },
+    {
+      "source": "RU_1",
+      "target": "Cell_0"
+    },
+    {
+      "source": "RU_1",
+      "target": "Cell_2"
+    },
+    {
+      "source": "RU_1",
+      "target": "Cell_4"
+    },
+    {
+      "source": "RU_1",
+      "target": "Cell_6"
+    },
+    {
+      "source": "RU_1",
+      "target": "Cell_7"
+    },
+    {
+      "source": "RU_1",
+      "target": "Cell_8"
+    },
+    {
+      "source": "RU_1",
+      "target": "Cell_9"
+    },
+    {
+      "source": "RU_1",
+      "target": "Cell_10"
+    },
+    {
+      "source": "RU_1",
+      "target": "Cell_12"
+    },
+    {
+      "source": "RU_1",
+      "target": "Cell_13"
+    },
+    {
+      "source": "RU_1",
+      "target": "Cell_14"
+    },
+    {
+      "source": "RU_1",
+      "target": "Cell_15"
+    },
+    {
+      "source": "RU_1",
+      "target": "Cell_17"
+    },
+    {
+      "source": "RU_1",
+      "target": "Cell_19"
+    },
+    {
+      "source": "RU_1",
+      "target": "Cell_20"
+    },
+    {
+      "source": "RU_1",
+      "target": "Cell_22"
+    },
+    {
+      "source": "DU",
+      "target": "Link_2"
+    },
+    {
+      "source": "Link_2",
+      "target": "RU_2"
+    },
+    {
+      "source": "RU_2",
+      "target": "Cell_1"
+    },
+    {
+      "source": "RU_2",
+      "target": "Cell_3"
+    },
+    {
+      "source": "RU_2",
+      "target": "Cell_18"
+    },
+    {
+      "source": "RU_2",
+      "target": "Cell_23"
+    },
+    {
+      "source": "DU",
+      "target": "Link_3"
+    },
+    {
+      "source": "Link_3",
+      "target": "RU_3"
+    },
+    {
+      "source": "RU_3",
+      "target": "Cell_5"
+    },
+    {
+      "source": "RU_3",
+      "target": "Cell_11"
+    },
+    {
+      "source": "RU_3",
+      "target": "Cell_16"
+    },
+    {
+      "source": "RU_3",
+      "target": "Cell_21"
+    }
+  ]
+}
